@@ -1,7 +1,7 @@
 /**
  * @description Gugo Bot
  * @author Potor10 
- * @summary An Autistic Discord Bot For Gugo
+ * @summary A Discord Bot For Gugo
  */
 
 //const { Client, Attachment, MessageEmbed } = require("discord.js");
